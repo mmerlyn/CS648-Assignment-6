@@ -6,11 +6,11 @@ This repository contains solutions for **Assignment 6**, which focuses on **Java
 
 ## Assignment Problems
 
-### 1. Larger or Smaller? (5 points)
+### 1. Larger or Smaller?
 
 An application that accepts **two integers** via prompts and displays the **larger number**. Handles the case where both numbers are equal.
 
-### 2. The “Coin Flip” Game (10 points)
+### 2. The “Coin Flip” Game
 
 A game that:
 
@@ -19,7 +19,7 @@ A game that:
 3. Compares the result with the user’s choice.
 4. Displays win/lose messages via `alert()`.
 
-### 3. The “Coin Flip” Game Redux (10 points)
+### 3. The “Coin Flip” Game Redux
 
 A variation using a **for loop**:
 
@@ -27,7 +27,7 @@ A variation using a **for loop**:
 2. Loops **10 times**, generating a random coin flip each iteration.
 3. Logs `Heads` or `Tails` to the console based on the result.
 
-### 4. The “Coin Flip Streak” Game (5 points)
+### 4. The “Coin Flip Streak” Game
 
 A do-while loop game that:
 
@@ -35,11 +35,11 @@ A do-while loop game that:
 2. Logs each flip to the console.
 3. Allows the user to see how long a streak of `Heads` lasts.
 
-### 5. Looping a Triangle (5 points)
+### 5. Looping a Triangle
 
 Generates a triangle pattern in the console:
 
-### 7. Marco! Polo! (5 points)
+### 7. Marco! Polo!
 
 Iterates numbers from 1 to 100:
 
@@ -47,7 +47,7 @@ Iterates numbers from 1 to 100:
 - Multiples of 5 → `"Polo!"`
 - Multiples of both 3 and 5 → `"Marco! Polo!"`
 
-### 8. Countdown (5 points)
+### 8. Countdown
 
 Prompts the user for a number and counts **down to 0**, logging each number to the console.
 
