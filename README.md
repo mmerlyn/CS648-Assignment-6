@@ -1,6 +1,6 @@
 # CS648-Assignment-6
 
-This repository contains solutions for **Assignment 6**, which focuses on **JavaScript conditional logic and looping problems**. Each problem is implemented in a separate JavaScript file, located in the `javascript/` folder.
+_This project demonstrates fundamental JavaScript programming concepts - conditional logic (if-else statements), looping constructs (for and do-while loops), user interaction via browser prompts/alerts, and random number generation through a series of exercises._
 
 ---
 
@@ -52,8 +52,6 @@ Iterates numbers from 1 to 100:
 Prompts the user for a number and counts **down to 0**, logging each number to the console.
 
 ---
-
-_This project demonstrates fundamental JavaScript programming concepts - conditional logic (if-else statements), looping constructs (for and do-while loops), user interaction via browser prompts/alerts, and random number generation through a series of interactive exercises._
 
 **Course:** CS 648 - Advanced Topics in Web and Mobile Applications<br>
 **University:** San Diego State University (SDSU)<br>
