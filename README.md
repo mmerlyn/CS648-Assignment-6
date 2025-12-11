@@ -2,8 +2,6 @@
 
 _This project demonstrates fundamental JavaScript programming concepts - conditional logic (if-else statements), looping constructs (for and do-while loops), user interaction via browser prompts/alerts, and random number generation through a series of exercises._
 
----
-
 ## Assignment Problems
 
 ### 1. Larger or Smaller?
