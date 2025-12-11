@@ -1,6 +1,6 @@
 # CS648-Assignment-6
 
-_This project demonstrates fundamental JavaScript programming concepts - conditional logic (if-else statements), looping constructs (for and do-while loops), user interaction via browser prompts/alerts, and random number generation through a series of exercises._
+_This project demonstrates fundamental JavaScript programming concepts - conditional logic (if-else statements), looping constructs (for and do-while loops), user interaction via browser prompts/alerts, and random number generation through series of exercises._
 
 ## Assignment Problems
 
@@ -51,6 +51,6 @@ Prompts the user for a number and counts **down to 0**, logging each number to t
 
 ---
 
-**Course:** CS 648 - Advanced Topics in Web and Mobile Applications<br>
+**Course:** CS 648 - Modern Web Development Frameworks<br>
 **University:** San Diego State University (SDSU)<br>
 **Author:** Merlyn Mercylona M
