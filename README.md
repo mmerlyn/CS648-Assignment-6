@@ -51,9 +51,10 @@ Iterates numbers from 1 to 100:
 
 Prompts the user for a number and counts **down to 0**, logging each number to the console.
 
-## How to Run
+---
 
-1. Open `index.html` in a browser.
-2. Uncomment the script you want to run.
-3. Open the **console** (`F12`) to see results for scripts that use `console.log()`.
-4. Interact with `prompt()` and `alert()` popups as needed.
+_This project demonstrates fundamental JavaScript programming concepts - conditional logic (if-else statements), looping constructs (for and do-while loops), user interaction via browser prompts/alerts, and random number generation through a series of interactive exercises._
+
+**Course:** CS 648 - Advanced Topics in Web and Mobile Applications<br>
+**University:** San Diego State University (SDSU)<br>
+**Author:** Merlyn Mercylona M
